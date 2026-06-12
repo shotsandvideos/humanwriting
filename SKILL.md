@@ -191,22 +191,20 @@ HumanWriting richiede almeno 3 link funzionanti per ogni testo (escluse le Note,
 
 ---
 
-## INFLUENZA STILISTICA: IL POST
-
-Lo stile de Il Post rappresenta un punto di riferimento per la chiarezza ed il contesto. Ad esso si affiancano i modelli di Dan Koe, Jack Butcher ed Ernest Hemingway descritti in `core/voice-profile.md`. Da Il Post si ricava:
+## INFLUENZA STILISTICA
 
 - **La chiarezza espositiva:** spiegare concetti complessi in modo accessibile, evitando la banalizzazione.
 - **La struttura informativa:** fornire contesto prima dell'analisi, spiegando le premesse utili al lettore.
 - **Il tono misurato:** far parlare i fatti, escludendo sensazionalismi o enfasi eccessive.
 - **L'attenzione al "perché":** spiegare in modo approfondito il motivo per cui un fatto è importante.
 
-**Cose da escludere rispetto allo stile de Il Post:**
+**Cose da escludere:**
 - Il distacco giornalistico (HumanWriting è in prima persona, è intimo).
 - L'assenza di opinione (HumanWriting ha opinioni e le esprime chiaramente).
 - Il formato notizia (HumanWriting produce saggi ed essay, escludendo la cronaca).
 - Il tono neutro costante (HumanWriting alterna ironia, calore e registri misti).
 
-In sintesi: la chiarezza de Il Post dentro la voce personale e ironica di HumanWriting.
+In sintesi: la chiarezza espositiva dentro la voce personale e ironica di HumanWriting.
 
 ---
 
