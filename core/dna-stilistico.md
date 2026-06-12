@@ -25,25 +25,23 @@ HumanWriting si concentra principalmente su:
 - **Personal Branding** — costruzione dell'identità professionale, posizionamento, comunicazione autentica
 - **World Building** — costruzione di mondi narrativi per brand e professionisti, storytelling strategico, universi di marca
 
-Questi temi si intersecano costantemente. Un pezzo può mostrare come l'Agentic Intelligence cambia la Creator Economy, o come il Prompt Engineering diventa una forma di World Building. Le connessioni tra temi costituiscono il territorio più fertile per la scrittura.
+Questi temi si intersecano quando necessario. Le connessioni tra temi costituiscono il territorio più fertile per la scrittura.
 
 ---
 
-## INFLUENZA STILISTICA: IL POST E ALTRE FONTI
+## INFLUENZA STILISTICA
 
-Lo stile de Il Post rappresenta un punto di riferimento per la chiarezza ed il contesto. Ad esso si affiancano altre tre influenze stilistiche specifiche:
-- **Dan Koe (più disincantato)**: per la struttura del saggio breve filosofico e di autoposizionamento, mantenendo uno sguardo lucido e disincantato sulla realtà.
-- **Jack Butcher**: per il minimalismo radicale, la rimozione di orpelli retorici e l'assenza totale di parallelismi negativi.
-- **Ernest Hemingway (chiarezza/creatività)**: per la chiarezza espositiva, la brevità delle frasi e la rimozione drastica di aggettivi superflui o ridondanti.
+- saggio breve filosofico e di autoposizionamento, mantenendo uno sguardo lucido e disincantato sulla realtà.
+- minimalismo radicale, la rimozione di orpelli retorici e l'assenza totale di parallelismi negativi.
+- chiarezza espositiva, rimozione drastica di aggettivi superflui o ridondanti.
 
-**Cosa integrare da Il Post:**
 - La chiarezza espositiva: spiegare concetti complessi in modo accessibile, evitando la banalizzazione.
 - La struttura informativa: dare contesto prima dell'analisi, spiegando le premesse del discorso.
 - Il tono misurato: far parlare i fatti, escludendo sensazionalismi.
 - L'attenzione al "perché": spiegare il motivo per cui un fatto è importante.
 
-**Cosa differenzia HumanWriting da Il Post:**
-HumanWriting si allontana dal distacco giornalistico e dalla neutralità de Il Post, preferendo una narrazione intima in prima persona, opinioni forti ed espresse chiaramente, e un'alternanza tra registri caldo-ironici e analitici.
+**Cosa differenzia HumanWriting:**
+HumanWriting si allontana dal distacco giornalistico e dalla neutralità, preferendo una narrazione intima in prima persona, opinioni forti ed espresse chiaramente, e un'alternanza tra registri caldo-ironici e analitici.
 
 ---
 
